@@ -1,6 +1,6 @@
 {
-  "homepage": "https://deepakshi725.github.io/gallery",
-  "name": "lab-react-jsx-boilerplate",
+  "homepage": "https://deepakshi725.github.io/gallery/lab-main",
+  "name": "gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
